@@ -1,0 +1,10 @@
+* {
+    margin: 20px;
+    padding: 20px;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
